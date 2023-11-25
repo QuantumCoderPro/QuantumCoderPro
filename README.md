@@ -39,7 +39,7 @@
 <a href="https://fb.com/https://web.facebook.com/safran%20mas?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/safran%20mas?_rdc=1&_rdr" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/safranaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/safranaf" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/safranmohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/safranmohammed" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@safran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@safran" height="30" width="40" /></a>
+<a href="https://hashnode.com/@safran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@safran" height="30" width="40" /></a>
 <a href="https://medium.com/@nmsafranmhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nmsafranmhd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@digital-life9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@digital-life9899" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
@@ -63,9 +63,7 @@
 
 <a href="https://github.com/QuantumCoderPro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCoderPro&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/safran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safran" /></a></p><br><br>
