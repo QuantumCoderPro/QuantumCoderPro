@@ -34,25 +34,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/safrancoderpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/safrancoderpro" height="30" width="40" /></a>
-  
 <a href="https://www.linkedin.com/in/safranmhd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safranmhd/" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/22982922/safran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22982922/safran" height="30" width="40" /></a>
-
 <a href="https://web.facebook.com/safran%20mas?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/safran%20mas?_rdc=1&_rdr" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/safranaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/safranaf" height="30" width="40" /></a>
-
 <a href="https://www.behance.net/safranmohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/safranmohammed" height="30" width="40" /></a>
-
 <a href="https://hashnode.com/@safran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@safran" height="30" width="40" /></a>
-
 <a href="https://medium.com/@nmsafranmhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nmsafranmhd" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@digital-life9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@digital-life9899" height="30" width="40" /></a>
-
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
-
 <a href="/https://dashboard.rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/" height="30" width="40" /></a>
 </p>
 
